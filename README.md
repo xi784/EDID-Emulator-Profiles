@@ -1,4 +1,4 @@
-EDID Profiles for EDID Emulators and usage with EDID/DisplayID Writer.
+# EDID Profiles for EDID Emulators and usage with EDID/DisplayID Writer.
 
 Tested with ADWITS 4K 2K 1080P 30Hz to 60Hz Support HDMI Display Emulator.
 
