@@ -4,7 +4,7 @@ Tested with ADWITS 4K 2K 1080P 30Hz to 60Hz Support HDMI Display Emulator.
 
 HDR4k_120hz max. resolution at 4k@120hz, HDR only works with 60hz @120hz HDR is available in Windows but not accessable.
 
-HDR4k_120hz max. resolution at 4k@60hz, HDR working.
+HDR4k_60hz max. resolution at 4k@60hz, HDR working.
 
 HDR1080p_120hz max. resolution at 1080p@120hz, HDR working.
 
